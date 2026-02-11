@@ -1,4 +1,4 @@
-# event2
+# Enhancing Deep Consistent Graph Metric with Affinity and Alignment for Incremental Social Event Detection using Cross-Layer Attention
 
 Step 1: run generate_initial_features.py to generate the initial features for the messages.
 
